@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+#interactive {
+	display: block !important;
+	max-height: inherit !important;
+	overflow: visible !important;
+}
+
+#interactive .content {
+	font-family: 'Roboto', Arial, Helvetica, sans-serif; 
+	font-size: 1rem;
+  line-height: 1.6;
+	display: block;
+	color:#ffffff;
+}
+
+#staticfallback {
+	display: none !important;
+}
